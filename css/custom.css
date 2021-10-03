@@ -29,9 +29,3 @@
 #footer #footer-wrap a {
     color: var(--font-color)
 }
-
-/*个人博客颜色修改*/
-
-#page-header #site_title {
-    color: #BFEAFC;
-}
